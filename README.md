@@ -20,7 +20,7 @@ This project requires:
 
 To install:
 
-`$ git clone https://github.com/stephenchu530/`
+`$ git clone https://github.com/stephenchu530/Customer-Segments.git`
 
 ### Usage
 

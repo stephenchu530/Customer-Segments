@@ -1,6 +1,6 @@
 # Finding Customer Segments - Unsupervised Learning Project
 
-A wholesale distributor had recently tested changes to their delivery method, but initial and scaled results show vastly different adn negative results. In this project I applied various unsupervised learning techniques on the customer spending data to determine the customer segments. This data is then applied to an A/B test for the distributor to intelligently target their rollout of delivery method changes.
+A wholesale distributor had recently tested changes to their delivery method, but initial and scaled results show vastly different and negative results. In this project I applied various unsupervised learning techniques on the customer spending data to determine the customer segments. This data is then applied to an A/B test for the distributor to intelligently target their rollout of delivery method changes.
 
 In this project, the following concepts were analyzed and implemented:
 - Preprocessing of data including feature scaling and outlier detection/removal.

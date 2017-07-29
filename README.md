@@ -2,7 +2,7 @@
 
 A wholesale distributor had recently tested changes to their delivery method, but initial and scaled results show vastly different and negative results. In this project I applied various unsupervised learning techniques on the customer spending data to determine the customer segments. This data is then applied to an A/B test for the distributor to intelligently target their rollout of delivery method changes.
 
-In this project, the following concepts were analyzed and implemented:
+In this project, the following concepts and tools were used:
 - Preprocessing of data including feature scaling and outlier detection/removal.
 - Data scaling, transformation, and PCA dimension reduction.
 - Cluster algorithm using Gaussian Mixture Model.
